@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "picture": "https://png.pngtree.com/element_our/png/20180918/chef-cooking-fried-chicken-and-delicious-sign-png_103460.jpg",
+      "name": "John Smith",
+      "years_of_experience": 10,
+      "number_of_recipes": 4,
+      "aboutChef": "Passionate chef with a flair for French cuisine and over 10 years of experience in fine dining restaurants",
+      "specialty": ["Chinese", "Taiwanese", "Cantonese"],
+      "likes": 5000
+    },
+    {
+      "id": 2,
+      "picture": "https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-master-chef-logo-illustration-png-image_6351381.png",
+      "name": "Maria Garcia",
+      "years_of_experience": 8,
+      "number_of_recipes": 3,
+      "aboutChef": "Passionate chef with flair for French cuisine and over 10 years of experience in fine dining restaurants",
+      "specialty": ["Italian", "Mediterranean", "Seafood", "Chinese", "French", "Vegetarian"],
+      "likes": 2000
+    },
+    {
+      "id": 3,
+      "picture": "https://as2.ftcdn.net/v2/jpg/01/99/85/83/1000_F_199858387_FymKsmjdD0Ss2el9eIstS7Y4UaBg5F6B.jpg",
+      "name": "Ling Lee",
+      "years_of_experience": 15,
+      "number_of_recipes": 4,
+      "aboutChef": "Passionate chef with a flair for French cuisine and over 10 years of experience in fine dining restaurants",
+      "specialty": ["Chinese", "Thai", "Vietnamese Food", "Japanese food"],
+      "likes": 8000
+    },
+    {
+      "id": 4,
+      "picture": "https://cdn4.vectorstock.com/i/1000x1000/22/08/chef-logo-template-vector-30172208.jpg",
+      "name": "Antonio Rodriguez",
+      "years_of_experience": 12,
+      "number_of_recipes": 3,
+      "aboutChef": "Passionate chef with a flair for French cuisine and over 10 years of experience in fine dining restaurants",
+      "specialty": ["Chinese", "Thai", "Vietnamese", "Japanese"],
+      "likes": 3500
+    },
+    {
+      "id": 5,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxgVphxQOwUswUwR_nVsjmFD1vwGnQRseCOmNjqz1f5bjg2eCoP8iHbIm5UbxkKErwLs&usqp=CAU",
+      "name": "Hiroshi Nakamura",
+      "years_of_experience": 20,
+      "aboutChef": "Passionate chef with a flair for French cuisine and over 10 years of experience in fine dining restaurants",
+      "number_of_recipes": 4,
+      "specialty": ["Chinese", "Thai", "Vietnamese", "Japanese"],
+      "likes": 10000
+    },
+    {
+      "id": 6,
+      "picture": "https://c8.alamy.com/comp/2CEAC0R/happy-chef-logo-cooking-restaurant-food-symbol-2CEAC0R.jpg",
+      "name": "Giovanni Rossi",
+      "years_of_experience": 18,
+      "number_of_recipes": 3,
+      "aboutChef": "Passionate chef with a flair for French cuisine and over 10 years of experience in fine dining restaurants",
+      "specialty": ["Chinese", "Thai", "Vietnamese", "Japanese"],
+      "likes": 4500
+    }
+]
